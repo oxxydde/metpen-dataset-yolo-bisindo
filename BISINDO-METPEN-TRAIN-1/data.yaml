@@ -1,0 +1,37 @@
+names:
+- A
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
+nc: 26
+roboflow:
+  license: Public Domain
+  project: bisindo-metpen-train
+  url: https://universe.roboflow.com/tama-a5qzn/bisindo-metpen-train/dataset/1
+  version: 1
+  workspace: tama-a5qzn
+test: ../test/images
+train: BISINDO-METPEN-TRAIN-1/train/images
+val: BISINDO-METPEN-TRAIN-1/valid/images
